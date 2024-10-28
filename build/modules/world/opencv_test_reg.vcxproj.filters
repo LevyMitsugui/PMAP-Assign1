@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\reg\test\test_main.cpp">
+      <Filter>opencv_reg\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\reg\test\test_reg.cpp">
+      <Filter>opencv_reg\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\reg\test\test_precomp.hpp">
+      <Filter>opencv_reg\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_reg">
+      <UniqueIdentifier>{0DAF79F4-774D-357D-8B77-47D46305A369}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_reg\Include">
+      <UniqueIdentifier>{1CB6B678-81DB-3ECB-BCE0-33266DE2EFCC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_reg\Src">
+      <UniqueIdentifier>{873B7134-A95C-374A-B13C-2C09AD2AE3F6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

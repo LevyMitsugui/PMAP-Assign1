@@ -1,0 +1,140 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeCXXInformation.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeCommonLanguageInclude.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeFindJavaCommon.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeGenericSystem.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeInitializeConfigs.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeLanguageInformation.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeParseArguments.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeParseImplicitLinkInfo.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CMakePushCheckState.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeRCInformation.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeSystemSpecificInformation.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CPack.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CPackComponent.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CheckCSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CheckFunctionExists.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CheckIncludeFile.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CheckIncludeFileCXX.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CheckLibraryExists.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CheckSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CheckSymbolExists.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/CheckTypeSize.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Compiler/MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Compiler/MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Compiler/MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/FindBLAS.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/FindCUDA.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/FindCUDA/select_compute_arch.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/FindGit.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/FindJNI.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/FindJava.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/FindLAPACK.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/FindOpenMP.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/FindPackageMessage.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/FindThreads.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Internal/CMakeCLinkerInformation.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Internal/CMakeCXXLinkerInformation.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Internal/CMakeCommonLinkerInformation.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Internal/CMakeRCLinkerInformation.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Internal/CheckSourceCompiles.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Linker/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Linker/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Linker/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Windows-Initialize.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Windows-MSVC-C.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Windows-MSVC.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/Windows.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/Platform/WindowsPaths.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/TestBigEndian.cmake
+C:/Program Files/CMake/share/cmake-3.31/Modules/UseJava.cmake
+C:/Program Files/CMake/share/cmake-3.31/Templates/CPackConfig.cmake.in
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/build/3rdparty/ffmpeg/ffmpeg_version.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/build/CMakeFiles/3.31.0-rc2/CMakeCCompiler.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/build/CMakeFiles/3.31.0-rc2/CMakeCXXCompiler.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/build/CMakeFiles/3.31.0-rc2/CMakeRCCompiler.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/build/CMakeFiles/3.31.0-rc2/CMakeSystem.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/3rdparty/ffmpeg/ffmpeg.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/3rdparty/ippicv/ippicv.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/CMakeLists.txt
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/FindCUDNN.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/OpenCVCRTLinkage.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/OpenCVCompilerOptimizations.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/OpenCVCompilerOptions.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/OpenCVDetectApacheAnt.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/OpenCVDetectCUDA.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/OpenCVDetectCUDAUtils.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/OpenCVDetectCXXCompiler.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/OpenCVDetectDirectML.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/OpenCVDetectDirectX.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/OpenCVDetectFlatbuffers.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/OpenCVDetectOpenCL.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/OpenCVDetectPython.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/OpenCVDetectTrace.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/OpenCVDetectVTK.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/OpenCVDownload.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/OpenCVExtraTargets.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/OpenCVFindAVIF.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/OpenCVFindFrameworks.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/OpenCVFindIPP.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/OpenCVFindIPPIW.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/OpenCVFindLAPACK.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/OpenCVFindLibsGUI.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/OpenCVFindLibsGrfmt.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/OpenCVFindLibsPerf.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/OpenCVFindLibsVideo.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/OpenCVFindMKL.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/OpenCVFindOpenBLAS.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/OpenCVFindOpenEXR.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/OpenCVFindProtobuf.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/OpenCVGenABI.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/OpenCVGenAndroidMK.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/OpenCVGenConfig.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/OpenCVGenHeaders.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/OpenCVGenSetupVars.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/OpenCVInstallLayout.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/OpenCVMinDepVersions.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/OpenCVModule.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/OpenCVPCHSupport.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/OpenCVPackaging.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/OpenCVUtils.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/OpenCVVersion.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/checks/directml.cpp
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/checks/directx.cpp
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/checks/opencl.cpp
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/checks/win32uitest.cpp
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/platforms/OpenCV-Windows.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/templates/OpenCVConfig-version.cmake.in
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/templates/OpenCVConfig.cmake.in
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/templates/OpenCVConfig.root-WIN32.cmake.in
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/templates/cmake_uninstall.cmake.in
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/templates/custom_hal.hpp.in
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/templates/cv_cpu_config.h.in
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/templates/cvconfig.h.in
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/templates/opencv_modules.hpp.in
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/templates/setup_vars_win32.cmd.in
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/cmake/vars/EnableModeVars.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/modules/core/include/opencv2/core/version.hpp
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/modules/dnn/cmake/init.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/modules/gapi/cmake/DownloadADE.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/modules/gapi/cmake/init.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/modules/highgui/cmake/detect_win32ui.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/modules/highgui/cmake/init.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/modules/videoio/cmake/detect_dshow.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/modules/videoio/cmake/detect_ffmpeg.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/modules/videoio/cmake/detect_gstreamer.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/modules/videoio/cmake/detect_msmf.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/modules/videoio/cmake/detect_obsensor.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/modules/videoio/cmake/init.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv_contrib/modules/julia/cmake/init.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv_contrib/modules/matlab/cmake/init.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv_contrib/modules/text/cmake/FindTesseract.cmake
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv_contrib/modules/text/cmake/init.cmake
+C:/Users/Levy/anaconda3/Library/lib/cmake/libavif/libavif-config-release.cmake
+C:/Users/Levy/anaconda3/Library/lib/cmake/libavif/libavif-config-version.cmake
+C:/Users/Levy/anaconda3/Library/lib/cmake/libavif/libavif-config.cmake

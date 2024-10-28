@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\photo\perf\opencl\perf_denoising.cpp">
+      <Filter>opencv_photo\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\photo\perf\perf_cuda.cpp">
+      <Filter>opencv_photo\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\photo\perf\perf_hdr.cpp">
+      <Filter>opencv_photo\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\photo\perf\perf_inpaint.cpp">
+      <Filter>opencv_photo\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\photo\perf\perf_main.cpp">
+      <Filter>opencv_photo\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\photo\perf\perf_precomp.hpp">
+      <Filter>opencv_photo\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_photo">
+      <UniqueIdentifier>{601CE016-6CA4-328B-9E21-08EE9A8162BB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_photo\Include">
+      <UniqueIdentifier>{244A1D2C-7EED-3D1F-976C-F2D61E3A3073}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_photo\Src">
+      <UniqueIdentifier>{9475A0B8-4688-36BA-9BC1-2A5B716E2353}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_photo\Src\opencl">
+      <UniqueIdentifier>{E74A8C62-3070-3F91-B444-5D9CC11F6187}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

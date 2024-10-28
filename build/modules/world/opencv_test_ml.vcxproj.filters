@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\ml\test\test_ann.cpp">
+      <Filter>opencv_ml\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\ml\test\test_bayes.cpp">
+      <Filter>opencv_ml\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\ml\test\test_em.cpp">
+      <Filter>opencv_ml\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\ml\test\test_kmeans.cpp">
+      <Filter>opencv_ml\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\ml\test\test_knearest.cpp">
+      <Filter>opencv_ml\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\ml\test\test_lr.cpp">
+      <Filter>opencv_ml\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\ml\test\test_main.cpp">
+      <Filter>opencv_ml\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\ml\test\test_mltests.cpp">
+      <Filter>opencv_ml\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\ml\test\test_rtrees.cpp">
+      <Filter>opencv_ml\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\ml\test\test_save_load.cpp">
+      <Filter>opencv_ml\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\ml\test\test_svmsgd.cpp">
+      <Filter>opencv_ml\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\ml\test\test_svmtrainauto.cpp">
+      <Filter>opencv_ml\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\ml\test\test_utils.cpp">
+      <Filter>opencv_ml\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\ml\test\test_precomp.hpp">
+      <Filter>opencv_ml\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_ml">
+      <UniqueIdentifier>{D3CC1937-C107-32C3-82FC-66E4D3A75615}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_ml\Include">
+      <UniqueIdentifier>{B58BA090-3C4B-3BA3-9287-DA5DD4292C46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_ml\Src">
+      <UniqueIdentifier>{0EF273D9-A781-3ED3-BDD2-C01E8D7E3632}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

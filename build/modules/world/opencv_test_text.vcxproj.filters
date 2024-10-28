@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\text\test\test_detection.cpp">
+      <Filter>opencv_text\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\text\test\test_detection_swt.cpp">
+      <Filter>opencv_text\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\text\test\test_main.cpp">
+      <Filter>opencv_text\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\text\test\test_precomp.hpp">
+      <Filter>opencv_text\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_text">
+      <UniqueIdentifier>{68E8AB43-781F-351F-84D2-A897B88EC36F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_text\Include">
+      <UniqueIdentifier>{041A1C70-FC10-3AFE-A00F-F15D902A3ADF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_text\Src">
+      <UniqueIdentifier>{7C5A82FD-B256-3D5D-876C-49DF45F27363}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

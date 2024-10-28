@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\cudafeatures2d\test\test_features2d.cpp">
+      <Filter>opencv_cudafeatures2d\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\cudafeatures2d\test\test_main.cpp">
+      <Filter>opencv_cudafeatures2d\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\cudafeatures2d\test\test_precomp.hpp">
+      <Filter>opencv_cudafeatures2d\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_cudafeatures2d">
+      <UniqueIdentifier>{067065ED-DA54-3458-A535-8E8C023D2F43}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudafeatures2d\Include">
+      <UniqueIdentifier>{D0A1310B-A6F4-3A81-BBEF-9434924F22BB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudafeatures2d\Src">
+      <UniqueIdentifier>{3A7C8B2F-3075-3271-A644-BE5A6BE6A597}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\cudaobjdetect\test\test_main.cpp">
+      <Filter>opencv_cudaobjdetect\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\cudaobjdetect\test\test_objdetect.cpp">
+      <Filter>opencv_cudaobjdetect\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\cudaobjdetect\test\test_precomp.hpp">
+      <Filter>opencv_cudaobjdetect\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_cudaobjdetect">
+      <UniqueIdentifier>{B1C47A42-2CCB-3A30-9210-DC1076C0D414}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudaobjdetect\Include">
+      <UniqueIdentifier>{40FF26F3-492A-3643-8A4D-85A870E0396B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudaobjdetect\Src">
+      <UniqueIdentifier>{BDE3D322-071F-3A04-A526-7188D806E4DC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

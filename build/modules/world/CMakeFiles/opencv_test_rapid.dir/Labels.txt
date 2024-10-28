@@ -1,0 +1,13 @@
+# Target labels
+ Extra
+ opencv_rapid
+ AccuracyTest
+# Source files and their labels
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv_contrib/modules/rapid/test/test_main.cpp
+ Extra
+ opencv_rapid
+ AccuracyTest
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv_contrib/modules/rapid/test/test_precomp.hpp
+ Extra
+ opencv_rapid
+ AccuracyTest

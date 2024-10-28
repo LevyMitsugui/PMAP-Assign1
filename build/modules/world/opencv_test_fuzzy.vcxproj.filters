@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\fuzzy\test\test_f0.cpp">
+      <Filter>opencv_fuzzy\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\fuzzy\test\test_f1.cpp">
+      <Filter>opencv_fuzzy\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\fuzzy\test\test_image.cpp">
+      <Filter>opencv_fuzzy\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\fuzzy\test\test_main.cpp">
+      <Filter>opencv_fuzzy\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\fuzzy\test\test_precomp.hpp">
+      <Filter>opencv_fuzzy\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_fuzzy">
+      <UniqueIdentifier>{EAD66F08-7173-399A-8ABF-D16FF1034B11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_fuzzy\Include">
+      <UniqueIdentifier>{AF1092AF-C12E-38F3-842C-21C1C8AE2E39}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_fuzzy\Src">
+      <UniqueIdentifier>{9A7988D2-5173-39EF-B856-E35508220F05}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

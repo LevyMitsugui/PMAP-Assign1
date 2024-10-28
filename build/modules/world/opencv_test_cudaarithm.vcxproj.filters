@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\cudaarithm\test\test_arithm.cpp">
+      <Filter>opencv_cudaarithm\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\cudaarithm\test\test_buffer_pool.cpp">
+      <Filter>opencv_cudaarithm\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\cudaarithm\test\test_core.cpp">
+      <Filter>opencv_cudaarithm\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\cudaarithm\test\test_element_operations.cpp">
+      <Filter>opencv_cudaarithm\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\cudaarithm\test\test_event.cpp">
+      <Filter>opencv_cudaarithm\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\cudaarithm\test\test_gpumat.cpp">
+      <Filter>opencv_cudaarithm\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\cudaarithm\test\test_main.cpp">
+      <Filter>opencv_cudaarithm\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\cudaarithm\test\test_opengl.cpp">
+      <Filter>opencv_cudaarithm\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\cudaarithm\test\test_reductions.cpp">
+      <Filter>opencv_cudaarithm\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\cudaarithm\test\test_stream.cpp">
+      <Filter>opencv_cudaarithm\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\cudaarithm\test\test_precomp.hpp">
+      <Filter>opencv_cudaarithm\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_cudaarithm">
+      <UniqueIdentifier>{794F2C8F-AF5C-392A-B7D0-FCE93D1C4BAF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudaarithm\Include">
+      <UniqueIdentifier>{C5125A73-659E-3A31-AD1B-18E52FE74011}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudaarithm\Src">
+      <UniqueIdentifier>{77EE9CE1-A883-3D23-9F92-EA02B15EFB53}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

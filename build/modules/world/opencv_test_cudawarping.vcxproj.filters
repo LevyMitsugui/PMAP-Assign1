@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\cudawarping\test\test_main.cpp">
+      <Filter>opencv_cudawarping\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\cudawarping\test\test_pyramids.cpp">
+      <Filter>opencv_cudawarping\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\cudawarping\test\test_remap.cpp">
+      <Filter>opencv_cudawarping\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\cudawarping\test\test_resize.cpp">
+      <Filter>opencv_cudawarping\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\cudawarping\test\test_warp_affine.cpp">
+      <Filter>opencv_cudawarping\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\cudawarping\test\test_warp_perspective.cpp">
+      <Filter>opencv_cudawarping\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\cudawarping\test\interpolation.hpp">
+      <Filter>opencv_cudawarping\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\cudawarping\test\test_precomp.hpp">
+      <Filter>opencv_cudawarping\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_cudawarping">
+      <UniqueIdentifier>{77FA2195-7396-3FB3-AF59-636DEC5D5C47}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudawarping\Include">
+      <UniqueIdentifier>{81DE1329-9B33-35FD-A46F-5AD4F1E71EBA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudawarping\Src">
+      <UniqueIdentifier>{355392CA-7DA9-3638-BD36-8461AD1E6CA5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

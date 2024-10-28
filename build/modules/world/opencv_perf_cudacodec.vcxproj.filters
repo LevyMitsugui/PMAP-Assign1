@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\cudacodec\perf\perf_main.cpp">
+      <Filter>opencv_cudacodec\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\cudacodec\perf\perf_video.cpp">
+      <Filter>opencv_cudacodec\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\cudacodec\perf\perf_precomp.hpp">
+      <Filter>opencv_cudacodec\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_cudacodec">
+      <UniqueIdentifier>{79B0D9D5-F2D7-3733-BF1F-6EB30B1CBA80}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudacodec\Include">
+      <UniqueIdentifier>{4DC51B69-AB8B-361A-979D-7CE88830A395}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudacodec\Src">
+      <UniqueIdentifier>{866D3B1D-1251-31E3-9FF0-85BAED9934C8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

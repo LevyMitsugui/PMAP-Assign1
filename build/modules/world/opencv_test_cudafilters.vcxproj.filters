@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\cudafilters\test\test_filters.cpp">
+      <Filter>opencv_cudafilters\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\cudafilters\test\test_main.cpp">
+      <Filter>opencv_cudafilters\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\cudafilters\test\test_precomp.hpp">
+      <Filter>opencv_cudafilters\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_cudafilters">
+      <UniqueIdentifier>{9AE1C184-0E0C-3740-A6FD-7E44A634C55F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudafilters\Include">
+      <UniqueIdentifier>{FCCB94F6-B83D-3F90-A4AD-B0D5E0E0262C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudafilters\Src">
+      <UniqueIdentifier>{FDC4CDAD-37F4-3D6B-B8FA-5CC25B62601C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

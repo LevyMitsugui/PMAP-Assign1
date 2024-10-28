@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\perf\opencl\perf_3vs4.cpp">
+      <Filter>opencv_imgproc\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\perf\opencl\perf_accumulate.cpp">
+      <Filter>opencv_imgproc\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\perf\opencl\perf_blend.cpp">
+      <Filter>opencv_imgproc\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\perf\opencl\perf_color.cpp">
+      <Filter>opencv_imgproc\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\perf\opencl\perf_filters.cpp">
+      <Filter>opencv_imgproc\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\perf\opencl\perf_gftt.cpp">
+      <Filter>opencv_imgproc\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\perf\opencl\perf_houghlines.cpp">
+      <Filter>opencv_imgproc\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\perf\opencl\perf_imgproc.cpp">
+      <Filter>opencv_imgproc\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\perf\opencl\perf_imgwarp.cpp">
+      <Filter>opencv_imgproc\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\perf\opencl\perf_matchTemplate.cpp">
+      <Filter>opencv_imgproc\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\perf\opencl\perf_moments.cpp">
+      <Filter>opencv_imgproc\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\perf\opencl\perf_pyramid.cpp">
+      <Filter>opencv_imgproc\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\perf\perf_accumulate.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\perf\perf_bilateral.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\perf\perf_blur.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\perf\perf_canny.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\perf\perf_contours.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\perf\perf_corners.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\perf\perf_cvt_color.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\perf\perf_distanceTransform.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\perf\perf_filter2d.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\perf\perf_floodfill.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\perf\perf_goodFeaturesToTrack.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\perf\perf_histogram.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\perf\perf_houghcircles.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\perf\perf_houghlines.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\perf\perf_integral.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\perf\perf_intelligent_scissors.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\perf\perf_main.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\perf\perf_matchTemplate.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\perf\perf_moments.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\perf\perf_morph.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\perf\perf_phasecorr.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\perf\perf_pyramids.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\perf\perf_remap.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\perf\perf_resize.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\perf\perf_sepfilters.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\perf\perf_spatialgradient.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\perf\perf_threshold.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\perf\perf_warp.cpp">
+      <Filter>opencv_imgproc\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\perf\perf_precomp.hpp">
+      <Filter>opencv_imgproc\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_imgproc">
+      <UniqueIdentifier>{95AD056C-E66F-3BC7-85AE-ED61C374D844}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_imgproc\Include">
+      <UniqueIdentifier>{D019BEA0-3085-33E3-BF9E-EB4C65E62700}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_imgproc\Src">
+      <UniqueIdentifier>{AACE36C4-3DBB-3908-BEAA-4167E871A86B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_imgproc\Src\opencl">
+      <UniqueIdentifier>{C5F155CD-D5AF-3E72-A4DC-2A3FFA313B88}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

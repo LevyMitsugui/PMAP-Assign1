@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\cudaoptflow\test\test_main.cpp">
+      <Filter>opencv_cudaoptflow\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\cudaoptflow\test\test_optflow.cpp">
+      <Filter>opencv_cudaoptflow\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\cudaoptflow\test\test_precomp.hpp">
+      <Filter>opencv_cudaoptflow\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_cudaoptflow">
+      <UniqueIdentifier>{DACBF4BA-ED21-39CB-99CF-E94C5B8D4965}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudaoptflow\Include">
+      <UniqueIdentifier>{0563D565-5D90-341C-9823-0087A8687D60}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudaoptflow\Src">
+      <UniqueIdentifier>{3AB5BD35-F6EF-377D-9709-AF57D592B2DE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

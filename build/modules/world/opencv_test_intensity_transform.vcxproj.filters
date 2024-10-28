@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\intensity_transform\test\test_intensity_transform.cpp">
+      <Filter>opencv_intensity_transform\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\intensity_transform\test\test_main.cpp">
+      <Filter>opencv_intensity_transform\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\intensity_transform\test\test_precomp.hpp">
+      <Filter>opencv_intensity_transform\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_intensity_transform">
+      <UniqueIdentifier>{5C578F7A-A318-3432-8646-F7A5AEDD6178}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_intensity_transform\Include">
+      <UniqueIdentifier>{DB23F0CC-5A84-3EF4-838C-EF67023BEF10}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_intensity_transform\Src">
+      <UniqueIdentifier>{D4182DC1-8A09-351C-A401-893F3EB6BCDB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

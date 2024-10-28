@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\cudabgsegm\perf\perf_bgsegm.cpp">
+      <Filter>opencv_cudabgsegm\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\cudabgsegm\perf\perf_main.cpp">
+      <Filter>opencv_cudabgsegm\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\cudabgsegm\perf\perf_precomp.hpp">
+      <Filter>opencv_cudabgsegm\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_cudabgsegm">
+      <UniqueIdentifier>{53D15A06-2051-374C-9A03-6264F478500D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudabgsegm\Include">
+      <UniqueIdentifier>{A24FB6ED-6E75-3545-B261-70BDD0CCC333}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_cudabgsegm\Src">
+      <UniqueIdentifier>{9B856194-43BE-3235-AC72-AB5DD5585BF8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

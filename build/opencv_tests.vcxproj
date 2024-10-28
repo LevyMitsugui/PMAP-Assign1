@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PreferredToolArchitecture>x64</PreferredToolArchitecture>
+  </PropertyGroup>
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{D05A3109-DC29-3BDF-ABE6-BB47DD47B336}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <WindowsTargetPlatformVersion>10.0.22621.0</WindowsTargetPlatformVersion>
+    <Platform>x64</Platform>
+    <ProjectName>opencv_tests</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\3rdparty\ippicv\ippicv_win\icv\include;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\3rdparty\ippicv\ippicv_win\iw\include;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_bgsegm.vcxproj">
+      <Project>{F4CB0EDE-FD4D-339B-B501-C0CEDDA72F93}</Project>
+      <Name>opencv_test_bgsegm</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_bioinspired.vcxproj">
+      <Project>{4D28B36E-B321-3E00-9C72-8534BA4A27E7}</Project>
+      <Name>opencv_test_bioinspired</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_calib3d.vcxproj">
+      <Project>{36345309-7AF3-30DE-A2A7-DF65CD1899A8}</Project>
+      <Name>opencv_test_calib3d</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_core.vcxproj">
+      <Project>{344A63D6-4341-394C-A7B0-78B2421338AA}</Project>
+      <Name>opencv_test_core</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_cudaarithm.vcxproj">
+      <Project>{BA903BED-FE9D-3412-8023-1D108CAFB7C3}</Project>
+      <Name>opencv_test_cudaarithm</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_cudabgsegm.vcxproj">
+      <Project>{7873DBEB-95C0-3BDD-9A6E-9B2C8C939251}</Project>
+      <Name>opencv_test_cudabgsegm</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_cudacodec.vcxproj">
+      <Project>{77B62445-1687-394E-9C46-0F43B1749D8B}</Project>
+      <Name>opencv_test_cudacodec</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_cudafeatures2d.vcxproj">
+      <Project>{373AAD82-05A6-3A1F-8C49-BB30B24F6B07}</Project>
+      <Name>opencv_test_cudafeatures2d</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_cudafilters.vcxproj">
+      <Project>{3D79DD32-22FE-3CC5-A0DE-F1215EE362CC}</Project>
+      <Name>opencv_test_cudafilters</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_cudaimgproc.vcxproj">
+      <Project>{E72CAA10-6687-3EA4-9CA6-244A3DE6DF5C}</Project>
+      <Name>opencv_test_cudaimgproc</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_cudalegacy.vcxproj">
+      <Project>{E2468AF3-6789-3157-8B0F-9D8058EB7430}</Project>
+      <Name>opencv_test_cudalegacy</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_cudaobjdetect.vcxproj">
+      <Project>{67E7DC8F-18CE-36A4-8540-F426828F16D0}</Project>
+      <Name>opencv_test_cudaobjdetect</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_cudaoptflow.vcxproj">
+      <Project>{18F9724F-4875-3416-B8FE-399BE4302531}</Project>
+      <Name>opencv_test_cudaoptflow</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_cudastereo.vcxproj">
+      <Project>{8F3FDC4F-CB6E-3458-8FC4-5E0772F7F845}</Project>
+      <Name>opencv_test_cudastereo</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_cudawarping.vcxproj">
+      <Project>{D36E09B1-F95D-34BC-B4B4-F368932D9783}</Project>
+      <Name>opencv_test_cudawarping</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_dnn.vcxproj">
+      <Project>{0AC1B290-03A7-319E-B77C-125C2D383503}</Project>
+      <Name>opencv_test_dnn</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_dnn_superres.vcxproj">
+      <Project>{805574AE-D3D7-349F-A795-5ADD3DBEC451}</Project>
+      <Name>opencv_test_dnn_superres</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_face.vcxproj">
+      <Project>{8BBF0523-321E-36F7-9B01-8DAC49E821EF}</Project>
+      <Name>opencv_test_face</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_features2d.vcxproj">
+      <Project>{8BEC65FD-1E63-3375-8265-2FDFBDEF0A69}</Project>
+      <Name>opencv_test_features2d</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_flann.vcxproj">
+      <Project>{112A16E7-F655-344B-B302-B015E210E32B}</Project>
+      <Name>opencv_test_flann</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_fuzzy.vcxproj">
+      <Project>{AB870A96-810C-3FC3-BB36-83E09C0B6FD1}</Project>
+      <Name>opencv_test_fuzzy</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_gapi.vcxproj">
+      <Project>{8EE6D81F-5A74-3471-8FD1-DFC59B149349}</Project>
+      <Name>opencv_test_gapi</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_highgui.vcxproj">
+      <Project>{689DBBC8-0E64-34AD-AA66-DAD9FC474890}</Project>
+      <Name>opencv_test_highgui</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\img_hash\opencv_test_img_hash.vcxproj">
+      <Project>{FC3D367A-2474-3945-BA0A-6FFE53978FFA}</Project>
+      <Name>opencv_test_img_hash</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_imgcodecs.vcxproj">
+      <Project>{92B5071B-BE7D-374D-9A2B-27F02EFD2625}</Project>
+      <Name>opencv_test_imgcodecs</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_imgproc.vcxproj">
+      <Project>{8176B837-E872-3CAC-ABD0-BDAD8F55D8DD}</Project>
+      <Name>opencv_test_imgproc</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_intensity_transform.vcxproj">
+      <Project>{62DB37FD-F030-3F49-8865-4F3251023C95}</Project>
+      <Name>opencv_test_intensity_transform</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_line_descriptor.vcxproj">
+      <Project>{9DAA9275-71F6-32FA-81F6-5D94569B5AB9}</Project>
+      <Name>opencv_test_line_descriptor</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_mcc.vcxproj">
+      <Project>{7E85A9B8-5906-3B20-A328-DA70096ACA55}</Project>
+      <Name>opencv_test_mcc</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_ml.vcxproj">
+      <Project>{69653F45-C9B2-3A95-B7D4-798679931C9E}</Project>
+      <Name>opencv_test_ml</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_objdetect.vcxproj">
+      <Project>{2DFEC71A-F9EB-362D-BE41-132AD0F65737}</Project>
+      <Name>opencv_test_objdetect</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_optflow.vcxproj">
+      <Project>{5518F60B-6270-3A56-88D4-4150E6751066}</Project>
+      <Name>opencv_test_optflow</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_phase_unwrapping.vcxproj">
+      <Project>{D505828E-4D2A-3C24-A288-2CB7DB6B28ED}</Project>
+      <Name>opencv_test_phase_unwrapping</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_photo.vcxproj">
+      <Project>{9EFA572C-FE7E-3D22-AE21-E0FF54BDA539}</Project>
+      <Name>opencv_test_photo</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_quality.vcxproj">
+      <Project>{6153A228-4773-3C3B-BAE3-7F36F669383D}</Project>
+      <Name>opencv_test_quality</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_rapid.vcxproj">
+      <Project>{F57E610D-2657-3277-84F2-55932591984B}</Project>
+      <Name>opencv_test_rapid</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_reg.vcxproj">
+      <Project>{824E8DE5-AF56-3CC7-96C1-79E0E74455D6}</Project>
+      <Name>opencv_test_reg</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_rgbd.vcxproj">
+      <Project>{E84A792D-C63D-365A-B8C5-8D4680D2A83C}</Project>
+      <Name>opencv_test_rgbd</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_saliency.vcxproj">
+      <Project>{AD5683F0-39F1-3AAE-9F58-FB86D7F349D5}</Project>
+      <Name>opencv_test_saliency</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_shape.vcxproj">
+      <Project>{494147EF-06B5-3E05-ADB5-F79F12913332}</Project>
+      <Name>opencv_test_shape</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_signal.vcxproj">
+      <Project>{163DF40D-26B8-3E7C-BA81-C8BF8C21BE47}</Project>
+      <Name>opencv_test_signal</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_stereo.vcxproj">
+      <Project>{761F542D-92BE-3E4F-BF82-3772D432E4EE}</Project>
+      <Name>opencv_test_stereo</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_stitching.vcxproj">
+      <Project>{D2258953-75AA-384F-A536-7195F210654F}</Project>
+      <Name>opencv_test_stitching</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_structured_light.vcxproj">
+      <Project>{C74CDB87-978F-32F9-B25E-0B80B3CDB5CC}</Project>
+      <Name>opencv_test_structured_light</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_superres.vcxproj">
+      <Project>{40B471FB-B952-3B2A-977B-831A0EC8CAAA}</Project>
+      <Name>opencv_test_superres</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_text.vcxproj">
+      <Project>{7C6C71A0-8BB2-38B4-BF01-07A6EBDB6EC5}</Project>
+      <Name>opencv_test_text</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_tracking.vcxproj">
+      <Project>{C31327DB-8D08-3EB0-945A-203C31C52796}</Project>
+      <Name>opencv_test_tracking</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_video.vcxproj">
+      <Project>{6443EF11-C6EB-3185-A010-578CA7CFA148}</Project>
+      <Name>opencv_test_video</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_videoio.vcxproj">
+      <Project>{3498F1A0-F23F-3B25-9BE6-9FBF2F87F0D0}</Project>
+      <Name>opencv_test_videoio</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_videostab.vcxproj">
+      <Project>{6CDA3470-98A3-38DF-A09B-F857BB39C454}</Project>
+      <Name>opencv_test_videostab</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_wechat_qrcode.vcxproj">
+      <Project>{777BBC95-54DC-32EC-BB63-08A1C30AA4E4}</Project>
+      <Name>opencv_test_wechat_qrcode</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_xfeatures2d.vcxproj">
+      <Project>{FE0E6EC5-0E30-31A9-B126-2F45BB3EA54A}</Project>
+      <Name>opencv_test_xfeatures2d</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_ximgproc.vcxproj">
+      <Project>{EC3292C5-BC81-31A9-93D7-28355548D4B9}</Project>
+      <Name>opencv_test_ximgproc</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_test_xphoto.vcxproj">
+      <Project>{9E3FA3A6-03E4-312D-9BCE-39081C01C16C}</Project>
+      <Name>opencv_test_xphoto</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

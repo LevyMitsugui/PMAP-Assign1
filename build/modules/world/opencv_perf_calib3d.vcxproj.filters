@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\calib3d\perf\opencl\perf_stereobm.cpp">
+      <Filter>opencv_calib3d\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\calib3d\perf\perf_affine2d.cpp">
+      <Filter>opencv_calib3d\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\calib3d\perf\perf_cicrlesGrid.cpp">
+      <Filter>opencv_calib3d\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\calib3d\perf\perf_main.cpp">
+      <Filter>opencv_calib3d\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\calib3d\perf\perf_pnp.cpp">
+      <Filter>opencv_calib3d\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\calib3d\perf\perf_stereosgbm.cpp">
+      <Filter>opencv_calib3d\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\calib3d\perf\perf_undistort.cpp">
+      <Filter>opencv_calib3d\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\calib3d\perf\perf_precomp.hpp">
+      <Filter>opencv_calib3d\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_calib3d">
+      <UniqueIdentifier>{CB412322-A513-384C-84F6-B6CEDA59936C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_calib3d\Include">
+      <UniqueIdentifier>{F228929C-9D6D-3E42-A14F-28FCB7D81810}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_calib3d\Src">
+      <UniqueIdentifier>{0273F23F-2FA4-3D12-A52E-0B0F53CB0FF6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_calib3d\Src\opencl">
+      <UniqueIdentifier>{F6F4E506-2E65-347A-AAC4-E2C4E60A86A8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

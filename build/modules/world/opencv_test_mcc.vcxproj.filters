@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\mcc\test\test_ccm.cpp">
+      <Filter>opencv_mcc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\mcc\test\test_main.cpp">
+      <Filter>opencv_mcc\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\mcc\test\test_mcc.cpp">
+      <Filter>opencv_mcc\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\mcc\test\test_precomp.hpp">
+      <Filter>opencv_mcc\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_mcc">
+      <UniqueIdentifier>{92DE67F0-747D-3853-AB07-D73817560D6E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_mcc\Include">
+      <UniqueIdentifier>{3F7AFD78-16BC-3138-B3A7-17A57E8B34D8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_mcc\Src">
+      <UniqueIdentifier>{8C1DC666-BCEE-3C34-9ABC-1E902711EEE1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

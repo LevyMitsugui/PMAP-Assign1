@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\rapid\test\test_main.cpp">
+      <Filter>opencv_rapid\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\rapid\test\test_precomp.hpp">
+      <Filter>opencv_rapid\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_rapid">
+      <UniqueIdentifier>{638262E3-5787-3893-A0E7-A8E1163A3DA4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_rapid\Include">
+      <UniqueIdentifier>{057AE984-A629-3135-9888-F2B8E66F667B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_rapid\Src">
+      <UniqueIdentifier>{952A790F-A449-38B3-ACC2-3F273FF95433}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

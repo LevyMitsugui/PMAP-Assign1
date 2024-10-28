@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\img_hash\src\average_hash.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\img_hash\src\block_mean_hash.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\img_hash\src\color_moment_hash.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\img_hash\src\img_hash_base.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\img_hash\src\marr_hildreth_hash.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\img_hash\src\phash.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\img_hash\src\radial_variance_hash.cpp">
+      <Filter>Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\img_hash\opencv_img_hash_main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\img_hash\include\opencv2\img_hash.hpp">
+      <Filter>Include\opencv2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\img_hash\include\opencv2\img_hash\average_hash.hpp">
+      <Filter>Include\opencv2\img_hash</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\img_hash\include\opencv2\img_hash\block_mean_hash.hpp">
+      <Filter>Include\opencv2\img_hash</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\img_hash\include\opencv2\img_hash\color_moment_hash.hpp">
+      <Filter>Include\opencv2\img_hash</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\img_hash\include\opencv2\img_hash\img_hash_base.hpp">
+      <Filter>Include\opencv2\img_hash</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\img_hash\include\opencv2\img_hash\marr_hildreth_hash.hpp">
+      <Filter>Include\opencv2\img_hash</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\img_hash\include\opencv2\img_hash\phash.hpp">
+      <Filter>Include\opencv2\img_hash</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\img_hash\include\opencv2\img_hash\radial_variance_hash.hpp">
+      <Filter>Include\opencv2\img_hash</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\img_hash\src\precomp.hpp">
+      <Filter>Src</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\cvconfig.h">
+      <Filter>Include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\opencv2\opencv_modules.hpp">
+      <Filter>Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\img_hash\vs_version.rc">
+      <Filter>Src</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Include">
+      <UniqueIdentifier>{DEE48A9A-4321-306D-826F-27888E0182C3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Include\opencv2">
+      <UniqueIdentifier>{C1EE492B-EE91-35D2-8B00-B78B59AFFBEB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Include\opencv2\img_hash">
+      <UniqueIdentifier>{DDB02773-5342-34DB-A34A-30D1C3B0C3BF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{7D0F0274-7E6D-3FFC-89F9-C71F2B3E615F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Src">
+      <UniqueIdentifier>{A2F40DB0-CC47-313F-8186-A7B355FA3C68}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

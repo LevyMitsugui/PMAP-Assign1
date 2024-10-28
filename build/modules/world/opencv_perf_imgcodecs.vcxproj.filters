@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgcodecs\perf\perf_jpeg.cpp">
+      <Filter>opencv_imgcodecs\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgcodecs\perf\perf_main.cpp">
+      <Filter>opencv_imgcodecs\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgcodecs\perf\perf_png.cpp">
+      <Filter>opencv_imgcodecs\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgcodecs\perf\perf_precomp.hpp">
+      <Filter>opencv_imgcodecs\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_imgcodecs">
+      <UniqueIdentifier>{D9596CAD-0BAB-39B0-A379-6382069845D6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_imgcodecs\Include">
+      <UniqueIdentifier>{E251E2C9-2BF6-32E0-B541-05BB0369ACB7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_imgcodecs\Src">
+      <UniqueIdentifier>{3D86FB62-4586-34DC-80A9-F6CF41F7E3B2}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

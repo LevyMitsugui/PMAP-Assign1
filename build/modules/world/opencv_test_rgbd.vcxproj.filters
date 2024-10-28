@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\rgbd\test\ocl\test_tsdf.cpp">
+      <Filter>opencv_rgbd\Src\ocl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\rgbd\test\test_colored_kinfu.cpp">
+      <Filter>opencv_rgbd\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\rgbd\test\test_dynafu.cpp">
+      <Filter>opencv_rgbd\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\rgbd\test\test_kinfu.cpp">
+      <Filter>opencv_rgbd\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\rgbd\test\test_main.cpp">
+      <Filter>opencv_rgbd\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\rgbd\test\test_normal.cpp">
+      <Filter>opencv_rgbd\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\rgbd\test\test_odometry.cpp">
+      <Filter>opencv_rgbd\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\rgbd\test\test_pose_graph.cpp">
+      <Filter>opencv_rgbd\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\rgbd\test\test_registration.cpp">
+      <Filter>opencv_rgbd\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\rgbd\test\test_tsdf.cpp">
+      <Filter>opencv_rgbd\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\rgbd\test\test_utils.cpp">
+      <Filter>opencv_rgbd\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\rgbd\test\test_precomp.hpp">
+      <Filter>opencv_rgbd\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_rgbd">
+      <UniqueIdentifier>{23E6CD33-F35A-3F1C-A7C2-1C5822B94AC4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_rgbd\Include">
+      <UniqueIdentifier>{E7C55BFA-3235-3D84-87FD-7FF609E633A2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_rgbd\Src">
+      <UniqueIdentifier>{821A8A17-50AB-383C-AB14-ED0CA5C4E950}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_rgbd\Src\ocl">
+      <UniqueIdentifier>{8F06361A-3904-315C-A818-36EAF09986B0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

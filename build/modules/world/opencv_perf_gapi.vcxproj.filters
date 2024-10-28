@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\gapi\perf\common\gapi_core_perf_tests.cpp">
+      <Filter>opencv_gapi\Src\common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\gapi\perf\common\gapi_imgproc_perf_tests.cpp">
+      <Filter>opencv_gapi\Src\common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\gapi\perf\common\gapi_render_perf_tests.cpp">
+      <Filter>opencv_gapi\Src\common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\gapi\perf\common\gapi_video_perf_tests.cpp">
+      <Filter>opencv_gapi\Src\common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\gapi\perf\cpu\gapi_core_perf_tests_cpu.cpp">
+      <Filter>opencv_gapi\Src\cpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\gapi\perf\cpu\gapi_core_perf_tests_fluid.cpp">
+      <Filter>opencv_gapi\Src\cpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\gapi\perf\cpu\gapi_imgproc_perf_tests_cpu.cpp">
+      <Filter>opencv_gapi\Src\cpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\gapi\perf\cpu\gapi_imgproc_perf_tests_fluid.cpp">
+      <Filter>opencv_gapi\Src\cpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\gapi\perf\cpu\gapi_video_perf_tests_cpu.cpp">
+      <Filter>opencv_gapi\Src\cpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\gapi\perf\gpu\gapi_core_perf_tests_gpu.cpp">
+      <Filter>opencv_gapi\Src\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\gapi\perf\gpu\gapi_imgproc_perf_tests_gpu.cpp">
+      <Filter>opencv_gapi\Src\gpu</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\gapi\perf\internal\gapi_compiler_perf_tests.cpp">
+      <Filter>opencv_gapi\Src\internal</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\gapi\perf\perf_bench.cpp">
+      <Filter>opencv_gapi\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\gapi\perf\perf_main.cpp">
+      <Filter>opencv_gapi\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\gapi\perf\render\gapi_render_perf_tests_ocv.cpp">
+      <Filter>opencv_gapi\Src\render</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\gapi\perf\streaming\gapi_streaming_source_perf_tests.cpp">
+      <Filter>opencv_gapi\Src\streaming</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\gapi\perf\common\gapi_core_perf_tests.hpp">
+      <Filter>opencv_gapi\Include\common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\gapi\perf\common\gapi_core_perf_tests_inl.hpp">
+      <Filter>opencv_gapi\Include\common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\gapi\perf\common\gapi_imgproc_perf_tests.hpp">
+      <Filter>opencv_gapi\Include\common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\gapi\perf\common\gapi_imgproc_perf_tests_inl.hpp">
+      <Filter>opencv_gapi\Include\common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\gapi\perf\common\gapi_render_perf_tests.hpp">
+      <Filter>opencv_gapi\Include\common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\gapi\perf\common\gapi_render_perf_tests_inl.hpp">
+      <Filter>opencv_gapi\Include\common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\gapi\perf\common\gapi_video_perf_tests.hpp">
+      <Filter>opencv_gapi\Include\common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\gapi\perf\common\gapi_video_perf_tests_inl.hpp">
+      <Filter>opencv_gapi\Include\common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\gapi\perf\perf_precomp.hpp">
+      <Filter>opencv_gapi\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_gapi">
+      <UniqueIdentifier>{1CE2F1F4-2A69-3BA5-B3CE-EEFD876AD23F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_gapi\Include">
+      <UniqueIdentifier>{966EFCE6-9400-3850-98AF-8D3B6D2C8D54}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_gapi\Include\common">
+      <UniqueIdentifier>{AAAB1B10-15AE-368F-A66C-4231E49895A8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_gapi\Src">
+      <UniqueIdentifier>{0BA6470D-6D66-384D-8498-C13BCD4FF9D1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_gapi\Src\common">
+      <UniqueIdentifier>{2AB8BCD4-AD79-3F6B-892C-7C1C4D84CE8E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_gapi\Src\cpu">
+      <UniqueIdentifier>{69EE83C2-51C2-3F48-A3E8-F77512BAB930}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_gapi\Src\gpu">
+      <UniqueIdentifier>{F900808C-85AA-38C8-A5DB-0FD22F5E4906}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_gapi\Src\internal">
+      <UniqueIdentifier>{05E71F0B-4FC9-36DD-9AFF-1E259E7D8A46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_gapi\Src\render">
+      <UniqueIdentifier>{575A5C4A-1202-3DF7-A058-B1614908A5D2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_gapi\Src\streaming">
+      <UniqueIdentifier>{04365160-4286-373D-A390-8DC00133F97E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

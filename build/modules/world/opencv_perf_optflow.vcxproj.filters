@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\optflow\perf\opencl\perf_optflow_dualTVL1.cpp">
+      <Filter>opencv_optflow\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\optflow\perf\perf_deepflow.cpp">
+      <Filter>opencv_optflow\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\optflow\perf\perf_main.cpp">
+      <Filter>opencv_optflow\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\optflow\perf\perf_rlof.cpp">
+      <Filter>opencv_optflow\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\optflow\perf\perf_tvl1optflow.cpp">
+      <Filter>opencv_optflow\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\optflow\perf\perf_precomp.hpp">
+      <Filter>opencv_optflow\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_optflow">
+      <UniqueIdentifier>{FCDF1776-EA6F-33D4-B709-DC4B25015273}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_optflow\Include">
+      <UniqueIdentifier>{6C9A3744-C7AE-3A5B-BC98-81C95CFB7857}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_optflow\Src">
+      <UniqueIdentifier>{6F6D14DF-FAB8-33BC-A42A-6D856F02D91F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_optflow\Src\opencl">
+      <UniqueIdentifier>{5A244A65-8B17-3CBF-8152-3AEDADC3AF35}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

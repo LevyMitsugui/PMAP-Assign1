@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PreferredToolArchitecture>x64</PreferredToolArchitecture>
+  </PropertyGroup>
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{871E800F-C094-32C9-8777-9D069FAA7CFA}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <WindowsTargetPlatformVersion>10.0.22621.0</WindowsTargetPlatformVersion>
+    <Platform>x64</Platform>
+    <ProjectName>opencv_interactive-calibration</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\bin\Release\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">opencv_interactive-calibration.dir\Release\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|x64'">opencv_interactive-calibration</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|x64'">.exe</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</GenerateManifest>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\3rdparty\ippicv\ippicv_win\icv\include;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\3rdparty\ippicv\ippicv_win\iw\include;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\core\include;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\cudev\include;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\include;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\features2d\include;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\flann\include;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\highgui\include;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgcodecs\include;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\videoio\include;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\calib3d\include;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\objdetect\include;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\dnn\include;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\apps\interactive-calibration\PRIVATE;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\include\opencv;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /external:I "C:/Users/Levy/Documents/GitHub/PMAP-Assign1/build" /bigobj</AdditionalOptions>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+      <DisableSpecificWarnings>4127;4251;4324;4275;4512;4589;4819</DisableSpecificWarnings>
+      <ExceptionHandling>Async</ExceptionHandling>
+      <ExternalWarningLevel>TurnOffAllWarnings</ExternalWarningLevel>
+      <FloatingPointModel>Fast</FloatingPointModel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <MinimalRebuild></MinimalRebuild>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <SupportJustMyCode></SupportJustMyCode>
+      <UseFullPaths>false</UseFullPaths>
+      <WarningLevel>Level4</WarningLevel>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_SCL_SECURE_NO_WARNINGS;NDEBUG;_VARIADIC_MAX=10;_WIN32_WINNT=0x0601;__OPENCV_BUILD=1;__OPENCV_APPS=1;CMAKE_INTDIR="Release"</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+      <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_SCL_SECURE_NO_WARNINGS;NDEBUG;_VARIADIC_MAX=10;_WIN32_WINNT=0x0601;__OPENCV_BUILD=1;__OPENCV_APPS=1;CMAKE_INTDIR=\"Release\"</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\3rdparty\ippicv\ippicv_win\icv\include;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\3rdparty\ippicv\ippicv_win\iw\include;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\core\include;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\cudev\include;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\include;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\features2d\include;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\flann\include;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\highgui\include;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgcodecs\include;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\videoio\include;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\calib3d\include;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\objdetect\include;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\dnn\include;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\apps\interactive-calibration\PRIVATE;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\include\opencv;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\3rdparty\ippicv\ippicv_win\icv\include;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\3rdparty\ippicv\ippicv_win\iw\include;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\core\include;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\cudev\include;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgproc\include;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\features2d\include;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\flann\include;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\highgui\include;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\imgcodecs\include;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\videoio\include;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\calib3d\include;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\objdetect\include;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\dnn\include;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\apps\interactive-calibration\PRIVATE;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\include\opencv;C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalDependencies>..\..\3rdparty\lib\Release\ippiw.lib;..\..\3rdparty\ippicv\ippicv_win\icv\lib\intel64\ippicvmt.lib;cudart_static.lib;nppc.lib;nppial.lib;nppicc.lib;nppidei.lib;nppif.lib;nppig.lib;nppim.lib;nppist.lib;nppisu.lib;nppitc.lib;npps.lib;cublas.lib;cufft.lib;-LIBPATH:C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.6/lib/x64;..\..\lib\Release\opencv_world4100.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.6/lib/x64;C:/Program Files/NVIDIA GPU Computing Toolkit/CUDA/v12.6/lib/x64/$(Configuration);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>C:/Users/Levy/Documents/GitHub/PMAP-Assign1/build/lib/Release/opencv_interactive-calibration.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/Users/Levy/Documents/GitHub/PMAP-Assign1/build/bin/Release/opencv_interactive-calibration.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\apps\interactive-calibration\calibController.cpp" />
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\apps\interactive-calibration\calibPipeline.cpp" />
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\apps\interactive-calibration\frameProcessor.cpp" />
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\apps\interactive-calibration\main.cpp" />
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\apps\interactive-calibration\parametersController.cpp" />
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\apps\interactive-calibration\rotationConverters.cpp" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\3rdparty\ippiw\ippiw.vcxproj">
+      <Project>{AAEA9C4E-DA27-321B-978A-B797EDD9D084}</Project>
+      <Name>ippiw</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\modules\world\opencv_world.vcxproj">
+      <Project>{52B38BAF-5F44-3A8B-8803-C190F13CC58F}</Project>
+      <Name>opencv_world</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

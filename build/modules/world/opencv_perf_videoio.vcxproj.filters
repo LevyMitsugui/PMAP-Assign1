@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\videoio\perf\perf_input.cpp">
+      <Filter>opencv_videoio\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\videoio\perf\perf_main.cpp">
+      <Filter>opencv_videoio\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\videoio\perf\perf_output.cpp">
+      <Filter>opencv_videoio\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\videoio\perf\perf_camera.impl.hpp">
+      <Filter>opencv_videoio\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\videoio\perf\perf_precomp.hpp">
+      <Filter>opencv_videoio\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_videoio">
+      <UniqueIdentifier>{4C04AB74-1C7E-3B78-BA10-7E35B3D3E08F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_videoio\Include">
+      <UniqueIdentifier>{2C02D521-3D95-3589-9804-AE9FD108B8B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_videoio\Src">
+      <UniqueIdentifier>{E9FE9E67-334A-34F4-A09A-99F78F236F1F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

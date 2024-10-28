@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\objdetect\test\opencl\test_hogdetector.cpp">
+      <Filter>opencv_objdetect\Src\opencl</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\objdetect\test\test_aruco_tutorial.cpp">
+      <Filter>opencv_objdetect\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\objdetect\test\test_aruco_utils.cpp">
+      <Filter>opencv_objdetect\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\objdetect\test\test_arucodetection.cpp">
+      <Filter>opencv_objdetect\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\objdetect\test\test_barcode.cpp">
+      <Filter>opencv_objdetect\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\objdetect\test\test_boarddetection.cpp">
+      <Filter>opencv_objdetect\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\objdetect\test\test_cascadeandhog.cpp">
+      <Filter>opencv_objdetect\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\objdetect\test\test_charucodetection.cpp">
+      <Filter>opencv_objdetect\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\objdetect\test\test_face.cpp">
+      <Filter>opencv_objdetect\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\objdetect\test\test_main.cpp">
+      <Filter>opencv_objdetect\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\objdetect\test\test_qrcode.cpp">
+      <Filter>opencv_objdetect\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\objdetect\test\test_qrcode_encode.cpp">
+      <Filter>opencv_objdetect\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\objdetect\test\test_aruco_utils.hpp">
+      <Filter>opencv_objdetect\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\objdetect\test\test_precomp.hpp">
+      <Filter>opencv_objdetect\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\objdetect\test\test_qr_utils.hpp">
+      <Filter>opencv_objdetect\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_objdetect">
+      <UniqueIdentifier>{5CF2690F-9FF8-3616-8B59-9C7546B5DA85}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_objdetect\Include">
+      <UniqueIdentifier>{748E5EB5-4E5E-349D-859B-2BF389FCCD14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_objdetect\Src">
+      <UniqueIdentifier>{82454795-829F-335E-A2BE-19A0B4BE3047}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_objdetect\Src\opencl">
+      <UniqueIdentifier>{C11362E0-9B3B-3EAA-9496-92564270CE84}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

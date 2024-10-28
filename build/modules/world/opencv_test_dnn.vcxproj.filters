@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\dnn\test\npy_blob.cpp">
+      <Filter>opencv_dnn\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\dnn\test\test_backends.cpp">
+      <Filter>opencv_dnn\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\dnn\test\test_caffe_importer.cpp">
+      <Filter>opencv_dnn\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\dnn\test\test_common.cpp">
+      <Filter>opencv_dnn\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\dnn\test\test_darknet_importer.cpp">
+      <Filter>opencv_dnn\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\dnn\test\test_googlenet.cpp">
+      <Filter>opencv_dnn\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\dnn\test\test_graph_simplifier.cpp">
+      <Filter>opencv_dnn\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\dnn\test\test_ie_models.cpp">
+      <Filter>opencv_dnn\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\dnn\test\test_int8_layers.cpp">
+      <Filter>opencv_dnn\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\dnn\test\test_layers.cpp">
+      <Filter>opencv_dnn\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\dnn\test\test_main.cpp">
+      <Filter>opencv_dnn\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\dnn\test\test_misc.cpp">
+      <Filter>opencv_dnn\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\dnn\test\test_model.cpp">
+      <Filter>opencv_dnn\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\dnn\test\test_nms.cpp">
+      <Filter>opencv_dnn\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\dnn\test\test_onnx_conformance.cpp">
+      <Filter>opencv_dnn\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\dnn\test\test_onnx_importer.cpp">
+      <Filter>opencv_dnn\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\dnn\test\test_tf_importer.cpp">
+      <Filter>opencv_dnn\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\dnn\test\test_tflite_importer.cpp">
+      <Filter>opencv_dnn\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\dnn\test\test_torch_importer.cpp">
+      <Filter>opencv_dnn\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\dnn\test\npy_blob.hpp">
+      <Filter>opencv_dnn\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\dnn\test\test_common.hpp">
+      <Filter>test_common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\dnn\test\test_common.impl.hpp">
+      <Filter>test_common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\dnn\test\test_onnx_conformance_layer_filter__cuda_denylist.inl.hpp">
+      <Filter>opencv_dnn\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\dnn\test\test_onnx_conformance_layer_filter__cuda_fp16_denylist.inl.hpp">
+      <Filter>opencv_dnn\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\dnn\test\test_onnx_conformance_layer_filter__halide_denylist.inl.hpp">
+      <Filter>opencv_dnn\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\dnn\test\test_onnx_conformance_layer_filter__openvino.inl.hpp">
+      <Filter>opencv_dnn\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\dnn\test\test_onnx_conformance_layer_filter__vulkan_denylist.inl.hpp">
+      <Filter>opencv_dnn\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\dnn\test\test_onnx_conformance_layer_filter_opencv_all_denylist.inl.hpp">
+      <Filter>opencv_dnn\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\dnn\test\test_onnx_conformance_layer_filter_opencv_cpu_denylist.inl.hpp">
+      <Filter>opencv_dnn\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\dnn\test\test_onnx_conformance_layer_filter_opencv_denylist.inl.hpp">
+      <Filter>opencv_dnn\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\dnn\test\test_onnx_conformance_layer_filter_opencv_ocl_fp16_denylist.inl.hpp">
+      <Filter>opencv_dnn\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\dnn\test\test_onnx_conformance_layer_filter_opencv_ocl_fp32_denylist.inl.hpp">
+      <Filter>opencv_dnn\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\dnn\test\test_onnx_conformance_layer_parser_denylist.inl.hpp">
+      <Filter>opencv_dnn\Include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv\modules\dnn\test\test_precomp.hpp">
+      <Filter>opencv_dnn\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_dnn">
+      <UniqueIdentifier>{35475525-8593-3554-B644-AA2319D297C3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_dnn\Include">
+      <UniqueIdentifier>{411394E8-1CA1-31C8-8950-312EEFF1F916}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_dnn\Src">
+      <UniqueIdentifier>{CBFF60F7-B522-3DD2-BA2D-9D740F598D1E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="test_common">
+      <UniqueIdentifier>{DE93D668-CC2C-36F4-AD56-19FFD6231EEB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

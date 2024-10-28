@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\line_descriptor\perf\perf_descriptors.cpp">
+      <Filter>opencv_line_descriptor\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\line_descriptor\perf\perf_detection.cpp">
+      <Filter>opencv_line_descriptor\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\line_descriptor\perf\perf_main.cpp">
+      <Filter>opencv_line_descriptor\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\line_descriptor\perf\perf_matching.cpp">
+      <Filter>opencv_line_descriptor\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\line_descriptor\perf\perf_precomp.hpp">
+      <Filter>opencv_line_descriptor\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_line_descriptor">
+      <UniqueIdentifier>{1C6F079C-6ACF-3275-B441-5EC490967EC2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_line_descriptor\Include">
+      <UniqueIdentifier>{4972AF60-6DFE-3F9A-ABF2-325706BB4B13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_line_descriptor\Src">
+      <UniqueIdentifier>{EDC2AB24-B327-3F64-8618-A26862FE9C4F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

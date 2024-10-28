@@ -1,0 +1,17 @@
+# Target labels
+ Extra
+ opencv_cudabgsegm
+ PerfTest
+# Source files and their labels
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv_contrib/modules/cudabgsegm/perf/perf_bgsegm.cpp
+ Extra
+ opencv_cudabgsegm
+ PerfTest
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv_contrib/modules/cudabgsegm/perf/perf_main.cpp
+ Extra
+ opencv_cudabgsegm
+ PerfTest
+C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv_contrib/modules/cudabgsegm/perf/perf_precomp.hpp
+ Extra
+ opencv_cudabgsegm
+ PerfTest

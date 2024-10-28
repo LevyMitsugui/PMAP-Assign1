@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\face\test\test_bif.cpp">
+      <Filter>opencv_face\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\face\test\test_face_align.cpp">
+      <Filter>opencv_face\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\face\test\test_facemark.cpp">
+      <Filter>opencv_face\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\face\test\test_facemark_aam.cpp">
+      <Filter>opencv_face\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\face\test\test_facemark_lbf.cpp">
+      <Filter>opencv_face\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\face\test\test_loadsave.cpp">
+      <Filter>opencv_face\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\face\test\test_mace.cpp">
+      <Filter>opencv_face\Src</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\face\test\test_main.cpp">
+      <Filter>opencv_face\Src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Levy\Documents\GitHub\PMAP-Assign1\opencv_contrib\modules\face\test\test_precomp.hpp">
+      <Filter>opencv_face\Include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="opencv_face">
+      <UniqueIdentifier>{D74B418F-EE58-35B1-9710-176828165A68}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_face\Include">
+      <UniqueIdentifier>{2FF292CC-CDCF-31A6-AEB3-E497785FC27E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="opencv_face\Src">
+      <UniqueIdentifier>{98331B38-02EA-3184-8DCE-512C9D336650}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
