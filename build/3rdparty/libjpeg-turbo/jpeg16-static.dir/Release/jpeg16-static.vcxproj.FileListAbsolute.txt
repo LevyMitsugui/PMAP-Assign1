@@ -1,0 +1,1 @@
+C:\Users\Levy\Documents\GitHub\PMAP-Assign1\build\3rdparty\libjpeg-turbo\jpeg16-static.dir\Release\jpeg16-static.lib

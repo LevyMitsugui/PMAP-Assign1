@@ -1,6 +1,9 @@
 import cv2
 import numpy as np
 
+# Print CUDA device info
+cv2.cuda.printCudaDeviceInfo(0)
+
 # Define the dimensions of the image
 width, height = 640, 480
 

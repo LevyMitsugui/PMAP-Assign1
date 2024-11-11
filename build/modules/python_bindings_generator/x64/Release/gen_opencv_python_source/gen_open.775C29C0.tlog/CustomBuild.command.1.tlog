@@ -1,0 +1,18 @@
+^C:\USERS\LEVY\DOCUMENTS\GITHUB\PMAP-ASSIGN1\BUILD\CMAKEFILES\B6A751391DCB97ADD2B003CA95B59E9A\PYOPENCV_GENERATED_ENUMS.H.RULE
+setlocal
+C:\Users\Levy\AppData\Local\Microsoft\WindowsApps\python3.exe C:/Users/Levy/Documents/GitHub/PMAP-Assign1/opencv/modules/python/src2/gen2.py C:/Users/Levy/Documents/GitHub/PMAP-Assign1/build/modules/python_bindings_generator C:/Users/Levy/Documents/GitHub/PMAP-Assign1/build/modules/python_bindings_generator/headers.txt
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\LEVY\DOCUMENTS\GITHUB\PMAP-ASSIGN1\BUILD\CMAKEFILES\284ABD47EC4C17AD71A65A75DC59FA51\GEN_OPENCV_PYTHON_SOURCE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
